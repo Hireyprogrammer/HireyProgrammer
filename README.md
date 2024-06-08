@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdifitah Mohamed Hirey</h1>
 <h3 align="center">A passionate web app developer from Somalia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hireyprogrammer" alt="hireyprogrammer" /></a> </p>
-
 - 🌱 I’m currently learning **Laravel**
 
 - 💬 Ask me about **html,css , js**
