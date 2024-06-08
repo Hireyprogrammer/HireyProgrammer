@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abdifitah Mohamed Hirey</h1>
 <h3 align="center">A passionate web app developer from Somalia</h3>
 
+<img alt="coding" width= "400" src= "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >  
+
 - 🌱 I’m currently learning **Laravel**
 
 - 💬 Ask me about **html,css , js**
