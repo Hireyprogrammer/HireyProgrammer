@@ -2,13 +2,17 @@
 <h3 align="center">A passionate web app developer from Somalia</h3>
  <img src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" alt="GIF Image">
 
-- 🌱 I’m currently learning **MERN**
+-👨‍💻 Full-Stack Developer | Read or Recommend Company
 
-- 💬 Ask me about **html,css , js**
+-🛠️ Expertise: HTML, CSS, JavaScript, PHP, MySQL, Node.js — delivering responsive, secure, and scalable web applications
 
-- 📫 How to reach me **hireyprogrammer@gmail.com**
+-💬 Let’s Talk Tech: Frontend development, backend APIs, database architecture, and modern web frameworks
 
-- ⚡ Fun fact **I'm Funny**
+-📫 Contact: hireyprogrammer@gmail.com
+
+-⚡ Fun Fact: I bring not just solutions — but good vibes and clean code to every project
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
