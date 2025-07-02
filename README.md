@@ -2,7 +2,7 @@
 <h3 align="center">A passionate web app developer from Somalia</h3>
  <img src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" alt="GIF Image">
 
-👨‍💻 Full-Stack Developer | Read or Recommend Company
+👨‍💻 Full-Stack Developer | Company Read 
 
 🛠️ Expertise: HTML, CSS, JavaScript, PHP, MySQL, Node.js — delivering responsive, secure, and scalable web applications
 
